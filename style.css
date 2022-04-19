@@ -101,6 +101,10 @@ font-family: 'Playfair Display', serif;*/
     color: black;
 }
 
+.left_sidebar .home-text, .about-text, .work-text, .portfolio-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
 /* RIGHT SIDEBAR */
 
 .right_sidebar {
